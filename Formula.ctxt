@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Formula
+comment0.text=\n\ Write\ a\ description\ of\ class\ Formula\ here.\n\ \n\ @author\ (Adrian\ Hernandez\ Islas)\ \n\ @version\ (0.0.1)\n
+comment1.params=
+comment1.target=Formula()
+comment1.text=\n\ Constructor\ de\ objetos\ de\ la\ clase\ Formula\n
+comment2.params=a\ b\ c
+comment2.target=double\ obtenerX1(double,\ double,\ double)
+comment3.params=a\ b\ c
+comment3.target=double\ obtenerX2(double,\ double,\ double)
+numComments=4
